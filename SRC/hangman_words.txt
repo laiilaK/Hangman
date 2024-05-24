@@ -1,0 +1,1844 @@
+Fruit:
+apple
+apricot
+avocado
+banana
+berry
+blackberry
+blood orange
+blueberry
+boysenberry
+breadfruit
+cantaloupe
+cherry
+citron
+citrus
+coconut
+crabapple
+cranberry
+current
+date
+dragon fruit
+durian
+elderberry
+fig
+grape
+grapefruit
+guava
+honeydew
+jackfruit
+kiwi
+kumquat
+lemon
+lime
+lingonberry
+loquat
+lychee
+mandarin orange
+mango
+marionberry
+melon
+mulberry
+nectarine
+orange
+papaya
+passion fruit
+peach
+pear
+persimmon
+pineapple
+plantain
+plum
+pluot
+pomegranate
+pomelo
+prune
+quince
+raisin
+raspberry
+star fruit
+strawberry
+tangelo
+tangerine
+ugli fruit
+watermelon
+
+
+Vegetables:
+acorn squash
+alfalfa
+artichoke
+arugula
+asparagus
+avocado
+bamboo shoots
+basil
+beans
+beets
+bell pepper
+black-eyed peas
+broccoli
+Brussels sprouts
+capers
+carrot
+cauliflower
+celeriac
+celery
+chard
+chick peas
+Chinese cabbage
+chives
+collard greens
+cress
+cucumber
+daikon
+dandelion greens
+eggplant
+endive
+fava bean
+fennel
+garlic
+ginger
+gourd
+green bean
+greens
+hot chili peppers
+iceberg lettuce
+jicama
+kale
+kohlrabi
+leek
+lentils
+lettuce
+lima bean
+maize
+mung bean
+mushroom
+mustard greens
+okra
+olive
+onion
+parsley
+parsnip
+pattypan squash
+pea
+peanut
+peapod
+peppers
+pickle
+potato
+pumpkin
+radicchio
+radish
+rhubarb
+rocket
+romaine
+rutabaga
+salad
+salsa
+salsify
+scallion
+seaweed
+shallot
+sorrel
+soybean
+spinach
+sprouts
+spuds
+squash
+string bean
+succotash
+sweet potato
+Swiss chard
+taro
+tomatillo
+tomato
+tuber
+turnip
+vegetable
+wasabi
+water chestnut
+watercress
+yam
+zucchini
+
+Sports:
+aerobics
+archer
+archery
+arena
+arrow
+athlete
+athletics
+axel
+badminton
+ball
+base
+baseball
+basketball
+bat
+baton
+batter
+batting
+biathlon
+bicycle
+bicycling
+bike
+biking
+billiards
+bobsleigh
+bocce
+boomerang
+boules
+bow
+bowler
+bowling
+boxer
+boxing
+bronze medal
+bunt
+canoe
+canoeing
+catch
+catcher
+champion
+championship
+cleats
+club
+coach
+compete
+competing
+competition
+competitor
+crew
+cricket
+croquet
+cross country
+cue
+curling
+cycle
+cycling
+cyclist
+dart
+dartboard
+deadlifting
+decathlon
+defense
+diamond
+discus
+dive
+diver
+diving
+dodgeball
+doubleheader
+dugout
+épée
+equestrian
+equipment
+exercise
+fencing
+field
+field hockey
+fielder
+fielding
+figure skating
+fitness
+football
+forward
+free throw
+Frisbee
+game
+gear
+geocaching
+go
+goal
+goalie
+gold medal
+golf
+golfer
+golfing
+guard
+gym
+gymnasium
+gymnast
+gymnastics
+halftime
+hammer throw
+handball
+hang gliding
+hardball
+helmet
+heptathlon
+high jump
+hitter
+hockey
+hole-in-one
+home
+home plate
+home run
+home team
+hoop
+horseshoes
+huddle
+hurdle
+ice hockey
+ice rink
+ice skates
+ice skating
+infield
+infielder
+inline skates
+inning
+jai-alai
+javelin
+jog
+jogger
+judo
+jump
+jump rope
+jumper
+jumping
+karate
+kayak
+kayaker
+kayaking
+kickball
+kite
+kneepads
+kung fu
+lacrosse
+lawn bowling
+league
+long jump
+lose
+loser
+luge
+lutz
+major league
+mallet
+martial arts
+mat
+medal
+minor league
+mitt
+mouthguard
+move
+movement
+MVP
+net
+no-hitter
+Nordic skiing
+offense
+ollie
+Olympics
+orienteering
+out
+outfield
+outfielder
+paddle
+paddleball
+paddling
+paintball
+parasailing
+parkour
+pentathlon
+pickleball
+ping pong
+pitch
+pitcher
+play
+player
+playing
+playoffs
+pogo stick
+pole
+pole vault
+polo
+pool
+puck
+quarter
+quarterback
+quiver
+race
+racer
+racewalking
+racing
+racket
+racquetball
+rafting
+referee
+relay
+ride
+riding
+rink
+rock climbing
+roller skates
+roller skating
+row
+rower
+rowing
+rugby
+run
+runner
+running
+sailing
+score
+scoreboard
+scuba
+scull
+sculling
+shortstop
+shot put
+silver medal
+skate
+skating rink
+skeleton
+ski
+skier
+skiing
+slalom
+sled
+sledder
+sledding
+snorkeling
+snowboard
+snowboarder
+snowboarding
+snowshoeing
+soccer
+softball
+somersault
+speed skating
+sport
+sportsmanship
+squash
+stadium
+stick
+strike
+stroke
+Sumo wrestling
+surfer
+surfing
+swim
+swimmer
+swimming
+synchronized swimming
+table tennis
+taekwondo
+tag
+target
+team
+teammate
+tee
+telemark skiing
+tennis
+tetherball
+throw
+throwing
+tie
+toboggan
+track and field
+trampoline
+triathlete
+triathlon
+triple jump
+triple play
+tug of war
+ultramarathon
+ultramarathoner
+umpire
+unicycle
+unicyclist
+uniform
+vault
+vaulter
+vaulting
+visiting team
+volley
+volley ball
+wakeboarding
+walk
+walker
+walking
+water polo
+water ski
+water skier
+water skiing
+weightlifter
+weightlifting
+weights
+wetsuit
+white water rafting
+wicket
+win
+windsurfer
+windsurfing
+winner
+winning
+World Cup
+World Series
+wrestler
+wrestling
+
+Dessert:
+almond cookie
+ambrosia
+angel food cake
+apple brown Betty
+apple crisp
+apple pie
+baked Alaska
+baked apple
+baklava
+banana split
+Belgian waffle
+biscotti
+black forest cake
+blueberry muffin
+bombe
+Boston cream pie
+bread pudding
+brownie
+buttercream frosting
+butterscotch
+cake
+cannoli
+caramel apple
+carrot cake
+cheesecake
+cherry pie
+chocolate bar
+chocolate cake
+chocolate chip cookie
+chocolate mousse
+churro
+cinnamon roll
+cobbler
+coconut cake
+coconut cream pie
+coffee cake
+cookie
+crepe Suzette
+cupcake
+custard
+Danish pastry
+dessert
+devil's food cake
+doughnut
+dumplings
+eclair
+flan
+fortune cookie
+French toast
+fritter
+frosting
+frozen yogurt
+fruit cake
+fruit cocktail
+fruit salad
+fudge
+gelatin
+gelato
+gingerbread
+gingersnaps
+honey
+hot-fudge sundae
+ice cream
+ice cream cake
+icing
+jam
+jelly
+jellyroll
+Key lime pie
+ladyfingers
+lemon bars
+lemon meringue pie
+macaroon
+marshmallow
+meringue
+milkshake
+molasses
+mousse
+muffin
+Neapolitan ice cream
+nougat
+nut brittle
+oatmeal cookie
+pancakes
+panna cotta
+parfait
+pastry
+peanut brittle
+peanut butter cookie
+pecan pie
+pie
+poached pears
+popover
+popsicle
+pound cake
+praline
+pudding
+pumpkin pie
+quick bread
+raisin bread
+red velvet cake
+rhubarb pie
+rice pudding
+s'mores
+scone
+sherbet
+shortbread
+snickerdoodle
+soda
+soda bread
+sorbet
+souffle
+sponge cake
+spumoni
+strawberry shortcake
+strudel
+sugar
+sugar cookie
+sundae
+sweet potato pie
+sweet roll
+sweets
+tapioca pudding
+tart
+toasted marshmallow
+toffee
+torte
+trifle
+truffle
+turnover
+upside-down cake
+vanilla cream pie
+vanilla pudding
+waffle
+watermelon ice
+yellow cake
+zabiglione
+
+
+Country Name:
+Afghanistan
+Albania
+Algeria
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Australia
+Austria
+Azerbaijan
+Bahamas
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+Brunei
+Bulgaria
+Burkina Faso
+Burma
+Burundi
+Cambodia
+Cameroon
+Canada
+Cape Verde
+Central African Republic
+Chad
+Chile
+China
+Comoros
+Congo, Dem. Rep. of the
+Congo, Rep of the
+Costa Rica
+Côte d'Ivoire
+Croatia
+Cuba
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+East Timor
+Ecuador
+Egypt
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Fiji
+Finland
+France
+Gabon
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hungary
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, North
+Korea, South
+Kuwait
+Kyrgyzstan
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macedonia
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Qatar
+Romania
+Russia
+Rwanda
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Saudi Arabia
+São Tomé and Príncipe
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Suriname
+Sweden
+Switzerland
+Syria
+Tajikistan
+Tanzania
+Thailand
+The Gambia
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States of America
+Uruguay
+Uzbekistan
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+Yemen
+Zambia
+Zimbabwe
+
+Animals:
+aardvark
+abalone
+African elephant
+African gray parrot
+African penguin
+African rock python
+African wild cat
+agouti
+airedale terrier
+Alaskan malamute
+albatross
+algae
+alligator
+alpaca
+American bison
+American cocker spaniel
+American crocodile
+American flamingo
+American golden plover
+American Robin
+American tree sparrow
+amoeba
+amphibian
+anaconda
+angelfish
+angelshark
+angonoka
+animal
+anole
+ant
+anteater
+antelope
+Apatosaurus
+ape
+aphid
+arachnid
+Archaeopteryx
+arctic fox
+Arctic tern
+arctic wolf
+armadillo
+Arsinoitherium
+arthropod
+artiodactyls
+asp
+assassin bug
+aye-aye
+baboon
+bactrian camel
+badger
+bald eagle
+bandicoot
+barnacle
+barracuda
+basilisk
+basking shark
+bass
+basset hound
+bat
+beagle
+bear
+bearded dragon
+beaver
+bed bug
+bee
+beetle
+beluga whale
+bichon frise
+bighorn sheep
+bilby
+binturong
+bird
+bison
+bivalve
+black bear
+black bear hamster
+black caiman
+black racer
+black swan
+blackbird
+bloodhound
+blowfish
+blue jay
+blue morpho butterfly
+blue ring octopus
+blue shark
+blue whale
+blue-tongued skink
+bluebird
+bluefin tuna
+boa constrictor
+bobcat
+bongo
+bonobo
+bony fish
+border collie
+Boston terrier
+bowhead whale
+box turtle
+boxer
+brittle star
+brown bear
+brown pelican
+buffalo
+bug
+bull
+bull shark
+bull snake
+bulldog
+bullfrog
+bumblebee
+bushbaby
+butterfly
+caiman
+California sea lion
+camel
+Canada goose
+canary
+cape buffalo
+Cape hunting dog
+capybera
+caracal
+cardinal
+caribou
+carnivora
+carpenter ant
+cassowary
+cat
+catamount
+caterpillar
+cattle
+cavy
+centipede
+cephalpod
+chameleon
+cheetah
+chickadee
+chicken
+chihuahua
+chimipanzee
+chinchilla
+chipmunk
+chiton
+chrysalis
+cicada
+clam
+clownfish
+coati
+cobra
+cockatoo
+cockroach
+cod
+coelacanth
+collared lizard
+collared peccary
+collie
+colugo
+common rhea
+companion dog
+conch
+cookiecutter shark
+copepod
+copperhead snake
+coral
+coral snake
+corn snake
+cottonmouth
+cougar
+cow
+coyote
+coypu
+crab
+crane
+crayfish
+cricket
+crocodile
+crow
+crustacean
+Cryptoclidus
+cuttlefish
+cutworm
+Dachshund
+dall sheep
+Dall's porpoise
+Dalmatian
+damselfly
+dark-eyed junco
+darkling beetle
+deer
+Deinonychus
+desert tortoise
+Desmatosuchus
+dhole
+diatom
+Dilophosaurus
+Dimetrodon
+dingo
+Dinichthys
+Dinornis
+dinosaur
+Diplodocus
+Doberman pinscher
+dodo
+Doedicurus
+dog
+dogfish
+dolphin
+dolphin, bottlenose
+dolphin, spotted
+donkey
+dory
+dove
+downy woodpecker
+dragonfly
+dromedary
+duck
+duck-billed platypus
+dugong
+dung beetle
+Dunkleosteus
+eagle
+earthworm
+earwig
+eastern bluebird
+eastern quoll
+echidna
+echinoderms
+Edenta
+Edmontonia
+Edmontosaurus
+eel
+egg
+egret
+ekaltadelta
+eland
+Elasmosaurus
+Elasmotherium
+electric eel
+elephant
+elephant seal
+elk
+emerald tree boa
+emperor angelfish
+emperor penguin
+emu
+endangered species
+Eohippus
+Eoraptor
+ermine
+Estemmenosuchus
+extinct animals
+Fabrosaurus
+falcon
+farm animals
+fennec fox
+ferret
+fiddler crab
+fin whale
+finch
+fireant
+firefly
+fish
+flamingo
+flatworm
+flea
+flightless birds
+flounder
+fly
+flying fish
+flying squirrel
+forest antelope
+forest giraffe
+fossa
+fowl
+fox
+frilled lizard
+frog
+fruit bat
+fruit fly
+fugu
+galagos
+Galapagos shark
+gar
+gastropod
+gavial
+gazelle
+gecko
+gerbil
+German shepherd
+giant squid
+gibbon
+gila monster
+giraffe
+Glyptodon
+gnat
+gnu
+goat
+golden eagle
+golden lion tamarin
+golden retriever
+goldfinch
+goldfish
+goose
+gopher
+gorilla
+grasshopper
+gray whale
+great apes
+great Dane
+great egret
+great horned owl
+great white shark
+green darner dragonfly
+green iguana
+Greenland shark
+greyhound
+grizzly bear
+groundhog
+grouper
+grouse
+grub
+guinea pig
+gull
+gulper eel
+hammerhead shark
+hamster
+hare
+harlequin bug
+harp seal
+harpy eagle
+hatchetfish
+Hawaiian goose
+hawk
+hedgehog
+hen
+hermit crab
+heron
+herring
+hippo
+hippopotamus
+honey bee
+hornet
+horse
+horseshoe crab
+hound
+house fly
+howler monkey
+human being
+hummingbird
+humpback whale
+husky
+hyena
+Hyracotherium
+hyrax
+ibis
+Ichthyornis
+Ichthyosaurus
+iguana
+Iguanodon
+imago
+impala
+Indian elephant
+insect
+insectivores
+invertebrates
+Irish setter
+isopod
+jack rabbit
+Jack Russell terrier
+jaguar
+Janenschia
+Japanese crane
+javelina
+jay
+jellyfish
+jerboa
+joey
+John Dory
+jumping bean moth
+junco
+junebug
+kakapo
+kangaroo
+kangaroo rat
+karakul
+katydid
+keel-billed toucan
+Kentrosaurus
+killer whale
+king cobra
+king crab
+kinkajou
+kiwi
+knobbed whelk
+koala
+Komodo dragon
+kookaburra
+krill
+Kronosaurus
+Kudu
+Labrador retriever
+ladybug
+lagomorph
+lake trout
+lanternfish
+larva
+leafcutter ant
+leghorn
+lemming
+lemon shark
+lemur
+leopard
+Lhasa apso
+lice
+lightning bug
+limpet
+lion
+Liopleurodon
+lizard
+llama
+lobster
+locust
+loggerhead turtle
+longhorn
+loon
+lorikeet
+loris
+louse
+luminous shark
+luna moth
+lynx
+macaque
+macaw
+mackerel
+Macrauchenia
+maggot
+mako shark
+mallard duck
+mamba
+mammal
+mammoth
+man-o'-war
+manatee
+mandrill
+manta ray
+mantid
+mantis
+marbled murrelet
+marine mammals
+marmoset
+marmot
+marsupial
+mastiff
+mastodon
+meadowlark
+mealworm
+meerkat
+Megalodon
+megamouth shark
+merganser
+mice
+midge
+migrate
+millipede
+mink
+minnow
+moa
+mockingbird
+mole
+mollusk
+monarch butterfly
+mongoose
+monitor lizard
+monkey
+monotreme
+moose
+moray eel
+Morganucodon
+morpho butterfly
+mosquito
+moth
+mountain lion
+mouse
+mudpuppy
+musk ox
+muskrat
+mussels
+mustelids
+nabarlek
+naked mole-rat
+nandu
+narwhal
+nautilus
+nene
+nest
+newt
+nightingale
+nine-banded armadillo
+North American beaver
+North American porcupine
+northern cardinal
+northern elephant seal
+northern fur seal
+northern right whale
+numbat
+nurse shark
+nuthatch
+nutria
+nymph
+ocelot
+octopus
+okapi
+old English sheepdog
+onager
+opossum
+orangutan
+orca
+Oregon silverspot butterfly
+oriole
+Ornitholestes
+Ornithomimus
+oropendola
+Orthacanthus
+oryx
+ostrich
+otter, river
+otter, sea
+Oviraptor
+owl
+ox
+oxpecker
+oyster
+painted lady butterfly
+painted turtle
+panda
+pangolin
+panther
+parakeet
+parrot
+peacock
+peafowl
+pekingese
+pelican
+penguin
+peregrine falcon
+Perissodactyls
+petrel
+pig
+pigeon
+pika
+pill bug
+pinnipeds
+piranha
+placental mammals
+plankton
+platybelodon
+platypus
+ploughshare tortoise
+plover
+polar bear
+polliwog
+pomeranian
+pompano
+pond skater
+poodle
+porcupine
+porpoise
+Port Jackson shark
+Portuguese water dog
+Postosuchus
+prairie chicken
+praying mantid
+praying mantis
+primates
+Proboscideans
+pronghorn
+protozoan
+pufferfish
+puffin
+pug
+puma
+pupa
+pupfish
+python
+Quaesitosaurus
+quagga
+quail
+Queen Alexandra's birdwing
+queen conch
+quetzal
+quokka
+quoll
+rabbit
+raccoon
+rat
+rattlesnake
+ray
+red hooded duck
+red kangaroo
+red panda
+red wolf
+red-tailed hawk
+redbilled oxpecker
+reindeer
+reptile
+rhea
+rhino
+rhinoceros
+Rhode Island red
+right whale
+ring-billed gull
+ring-tailed lemur
+ringtail possum
+river otter
+roach
+roadrunner
+robin
+rock dove
+rockhopper penguin
+rodent
+rooster
+rottweiler
+roundworm
+ruby-throated hummingbird
+sailfish
+salamander
+salmon
+sand dollar
+sandpiper
+scallop
+scarlet macaw
+scorpion
+Scottish terrier
+sea anemone
+sea cow
+sea cucumber
+sea otter
+sea star
+sea turtle
+sea urchin
+sea worm
+seahorse
+seal
+sealion
+serval
+shark
+sheep
+shrew
+shrimp
+siamang
+Siberian husky
+silkworm
+silverfish
+skink
+skipper
+skunk
+sloth
+slow worm
+slug
+Smilodon
+snail
+snake
+snapper
+snapping turtle
+snow goose
+snow leopard
+snowy owl
+softshell turtle
+sparrow
+spectacled caiman
+spectacled porpoise
+spider
+spiny anteater
+spiny lizard
+sponge
+spotted owl
+springtail
+squid
+squirrel
+St. Bernard
+starfish
+starling
+Stegosaurus
+stingray
+stonefly
+stork
+sugar glider
+sunfish
+swallowtail butterfly
+swan
+swift
+swordfish
+T. rex
+tadpole
+tamarin
+tanager
+tapir
+tarantula
+tarpon
+tarsier
+Tasmanian devil
+Tasmanian tiger
+Teratosaurus
+termite
+tern
+terrier
+Thecodontosaurus
+Thescelosaurus
+three-toed sloth
+thresher shark
+thrip
+tick
+tiger
+tiger shark
+tiger swallowtail butterfly
+toad
+Torosaurus
+tortoise
+toucan
+Trachodon
+tree shrew
+tree sparrow
+treefrog
+Triceratops
+Trilobite
+Troodon
+trout
+trumpeter swan
+tsetse fly
+tuatara
+tuna
+tundra wolf
+turkey
+turtle
+Tyrannosaurus rex
+Ultrasaurus
+Ulysses butterfly
+umbrellabird
+ungulates
+uniramians
+urchin
+Utahraptor
+valley quail
+vampire bat
+veiled chameleon
+Velociraptor
+venomous animals
+vertebrates
+viceroy butterfly
+vinegarroon
+viper
+Virginia opossum
+Vulcanodon
+vulture
+walkingstick
+wallaby
+walrus
+warthog
+wasp
+water moccasin
+water strider
+waterbug
+weasel
+Weddell seal
+weevil
+west highland white terrier
+western meadowlark
+western spotted owl
+whale
+whale shark
+whelk
+whip scorpion
+whippet
+white Bengal tiger
+white dove
+white pelican
+white rhinoceros
+white tiger
+white-breasted nuthatch
+white-spotted dolphin
+white-tailed deer
+wild cat
+wild dog
+wildebeest
+wolf
+wolverine
+wombat
+wood louse
+woodchuck
+woodland caribou
+woodpecker
+woolly bear caterpillar
+woolly mammoth
+woolly rhinoceros
+working dog
+worm
+wren
+Xenarthra (Edentata)
+xenops
+Xiaosaurus
+yak
+yellow mealworm
+yellow mongoose
+yellowjacket
+Yorkshire terrier
+zebra
+zebra bullhead shark
+zebra longwing butterfly
+zebra swallowtail butterfly
+zooplankton
+zorilla
+zorro
+
+Hard:
+abruptly
+absurd
+abyss
+affix
+askew
+avenue
+awkward
+axiom
+azure
+bagpipes
+bandwagon
+banjo
+bayou
+beekeeper
+bikini
+blitz
+blizzard
+boggle
+bookworm
+boxcar
+boxful
+buckaroo
+buffalo
+buffoon
+buxom
+buzzard
+buzzing
+buzzwords
+caliph
+cobweb
+cockiness
+croquet
+crypt
+curacao
+cycle
+daiquiri
+dirndl
+disavow
+dizzying
+duplex
+dwarves
+embezzle
+equip
+espionage
+euouae
+exodus
+faking
+fishhook
+fixable
+fjord
+flapjack
+flopping
+fluffiness
+flyby
+foxglove
+frazzled
+frizzled
+fuchsia
+funny
+gabby
+galaxy
+galvanize
+gazebo
+giaour
+gizmo
+glowworm
+glyph
+gnarly
+gnostic
+gossip
+grogginess
+haiku
+haphazard
+hyphen
+iatrogenic
+icebox
+injury
+ivory
+ivy
+jackpot
+jaundice
+jawbreaker
+jaywalk
+jazziest
+jazzy
+jelly
+jigsaw
+jinx
+jiujitsu
+jockey
+jogging
+joking
+jovial
+joyful
+juicy
+jukebox
+jumbo
+kayak
+kazoo
+keyhole
+khaki
+kilobyte
+kiosk
+kitsch
+kiwifruit
+klutz
+knapsack
+larynx
+lengths
+lucky
+luxury
+lymph
+marquis
+matrix
+megahertz
+microwave
+mnemonic
+mystify
+naphtha
+nightclub
+nowadays
+numbskull
+nymph
+onyx
+ovary
+oxidize
+oxygen
+pajama
+peekaboo
+phlegm
+pixel
+pizazz
+pneumonia
+polka
+pshaw
+psyche
+puppy
+puzzling
+quartz
+queue
+quips
+quixotic
+quiz
+quizzes
+quorum
+razzmatazz
+rhubarb
+rhythm
+rickshaw
+schnapps
+scratch
+shiv
+snazzy
+sphinx
+spritz
+squawk
+staff
+strength
+strengths
+stretch
+stronghold
+stymied
+subway
+swivel
+syndrome
+thriftless
+thumbscrew
+topaz
+transcript
+transgress
+transplant
+triphthong
+twelfth
+twelfths
+unknown
+unworthy
+unzip
+uptown
+vaporize
+vixen
+vodka
+voodoo
+vortex
+voyeurism
+walkway
+waltz
+wave
+wavy
+waxy
+wellspring
+wheezy
+whiskey
+whizzing
+whomever
+wimpy
+witchcraft
+wizard
+woozy
+wristwatch
+wyvern
+xylophone
+yachtsman
+yippee
+yoked
+youthful
+yummy
+zephyr
+zigzag
+zigzagging
+zilch
+zipper
+zodiac
+zombie
